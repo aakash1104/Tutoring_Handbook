@@ -4,6 +4,6 @@
 ## Contributions
    Written By: *Aakash Prabhu, Class of 2019*   
    Valuable Contributions From:  
-      *Alex Fu, Class of 2017*  
-      *Sahana Mundewadi, Class of 2018*  
-      *Nikhil Yerramilli, Class of 2019*
+      + *Alex Fu, Class of 2017*  
+      + *Sahana Mundewadi, Class of 2018*  
+      + *Nikhil Yerramilli, Class of 2019*
