@@ -1,5 +1,7 @@
 ## Tutoring Handbook for ECS 197T
+
     This handbook is intended to be addressed to those who sign up for CS Tutoring (ECS 197T).
+    
 ## Contributions
    Written By: *Aakash Prabhu, Class of 2019*   
    Valuable Contributions From:  
